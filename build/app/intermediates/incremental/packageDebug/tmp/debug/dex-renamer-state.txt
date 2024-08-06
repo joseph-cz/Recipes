@@ -1,0 +1,4 @@
+#Fri Mar 22 10:40:39 EDT 2024
+base.0=/Users/main/Desktop/CIS4030/Apps/Navigation - 7/navigation/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

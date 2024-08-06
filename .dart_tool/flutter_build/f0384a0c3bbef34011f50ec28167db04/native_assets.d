@@ -1,0 +1,1 @@
+ /Users/main/Desktop/CIS4030/Apps/Navigation\ -\ 7/navigation/.dart_tool/flutter_build/f0384a0c3bbef34011f50ec28167db04/native_assets.yaml: 
