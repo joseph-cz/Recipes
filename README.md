@@ -1,3 +1,3 @@
-# navigation
+# Recipes
 
-A new Flutter project.
+Save and view recipes.
